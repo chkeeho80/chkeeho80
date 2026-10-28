@@ -1,32 +1,23 @@
 # Hello, I'm chkeeho80 👋
 
-**AI creator · Hobby developer · Building tools for local creativity**
+**AI creator · Hobby developer · Exploring local creativity**
 
-I started by experimenting with AI image generation, training LoRAs, and collecting models and creative assets. Somewhere along the way, I found myself building the tools I wished I had.
+I enjoy experimenting with generative AI, training LoRAs, and creating images, videos, and music with local models.
 
-I enjoy turning ideas into things I can actually use, learning as I go, and sharing what I make.
+Over time, those experiments led me to build my own tools. I'm still learning, trying things out, and working on projects that make the creative process a little easier.
 
-## 🚀 What I'm building
+## 🛠️ What I'm working on
 
-### AWIW · A local-first creative workspace
+I'm building a personal creative workspace for organizing assets, exploring models, and bringing different AI creation tools together.
 
-A workspace that runs on your own PC and brings creative tools together in the browser.
-
-- **Organize** models, images, video, and audio you already have.
-- **Create** images, video, music, and speech with supported local models.
-- **Work with ComfyUI** and explore models through Civitai.
-- **Connect AI assistants** through MCP and SYNAVIQUE, a shared Codex + Claude conversation space.
-
-AWIW started as a personal hobby project. I'm working toward sharing it so other people can try it, find it useful, and tell me what could be better.
-
-**[Explore AWIW-WEB](https://github.com/chkeeho80/AWIW-WEB)** · *Repository is private while I'm preparing its public release.*
+It's still a work in progress. I'll share more when it's ready.
 
 ## 🎨 Beyond the code
 
-I also enjoy making AI artwork, experimenting with new image and video models, and training LoRAs. Building software grew out of that creative process, not the other way around.
+I like exploring new creative models and workflows, making AI artwork, and turning small ideas into something useful. The process of experimenting and building is a big part of the fun.
 
 ## ☕ Support my work
 
-If you enjoy the things I create and would like to support future experiments and development, you're welcome to [buy me a coffee on Ko-fi](https://ko-fi.com/Z8Z41U9HEB).
+If you enjoy what I create and would like to support future experiments, you're welcome to [buy me a coffee on Ko-fi](https://ko-fi.com/Z8Z41U9HEB).
 
 <a href="https://ko-fi.com/Z8Z41U9HEB"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=6" height="36" alt="Support my work on Ko-fi"></a>
